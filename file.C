@@ -1,2 +1,1 @@
-This is file C
-This is file C from repo B
+This is file C from repo A and B
